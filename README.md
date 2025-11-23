@@ -80,10 +80,6 @@ I'm a passionate **WordPress Developer** and **Computer Engineer** with expertis
 - **Technologies:** WooCommerce, Custom PHP, Payment Gateways
 - **Features:** Custom checkout, product management, order processing
 
-### 🤖 **Teacher Chatbot** - Educational Assistant
-- **Description:** Local AI-powered chatbot for educational purposes
-- **Technologies:** Python, Natural Language Processing
-- **Features:** Local deployment, custom training, user interaction
 
 ---
 
@@ -95,19 +91,7 @@ I'm a passionate **WordPress Developer** and **Computer Engineer** with expertis
 
 ---
 
-## 📊 GitHub Stats
 
-<div align="center">
-
-![Yara's GitHub Stats](https://github-readme-stats.vercel.app/api?username=yara351&show_icons=true&theme=radical&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yara351&layout=compact&theme=radical&hide_border=true)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=yara351&theme=radical&hide_border=true)
-
-</div>
-
----
 
 ## 📫 Let's Connect
 
