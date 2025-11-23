@@ -1,85 +1,131 @@
 <h1 align="center">Hi there 👋 I'm Yara Ahmed</h1>
 <h3 align="center">🚀 WordPress Developer & Computer Engineer</h3>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=yara351&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile views" />
+</p>
+
 ---
 
 ## 👩‍💻 About Me
 
-I'm **Yara Ahmed**, a passionate **WordPress Developer** and **Computer Engineer** specializing in building responsive, modern, and functional websites using **WordPress**, **Elementor**, and custom development. I'm currently improving my backend skills with **PHP** and **ASP.NET** to become a stronger full-stack developer.
+I'm a passionate **WordPress Developer** and **Computer Engineer** with expertise in creating responsive, modern, and functional websites. I specialize in **WordPress development** using **Elementor** and custom solutions, while continuously expanding my backend skills with **PHP** and **ASP.NET** to evolve into a full-stack developer.
 
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
-![ASP.NET](https://img.shields.io/badge/ASP.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-
----
-
-## 🚀 What I'm Currently Learning
-- **Backend Development** (PHP / ASP.NET)
-- **Clean WordPress Development**
-- **Secure and optimized websites**
-- **Hosting, optimization, and performance improvement**
+<p align="center">
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
+  <img src="https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" alt="WordPress" />
+  <img src="https://img.shields.io/badge/ASP.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt="ASP.NET" />
+  <img src="https://img.shields.io/badge/Elementor-92003B?style=for-the-badge&logo=elementor&logoColor=white" alt="Elementor" />
+</p>
 
 ---
 
-## 🛠️ Skills & Tools
+## 🚀 Currently Learning & Improving
+- **Advanced PHP Development** for WordPress
+- **ASP.NET Core** for backend applications
+- **Clean Code Architecture** in WordPress
+- **Website Security & Performance Optimization**
+- **Advanced WooCommerce Customizations**
 
-### **Languages & Backend**
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+---
 
-### **Web Technologies**
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![REST API](https://img.shields.io/badge/REST_API-FF6C37?style=flat&logo=postman&logoColor=white)
+## 🛠️ Technical Skills
 
-### **WordPress Development**
-![Elementor](https://img.shields.io/badge/Elementor-92003B?style=flat&logo=elementor&logoColor=white)
-![WooCommerce](https://img.shields.io/badge/WooCommerce-96588A?style=flat&logo=woocommerce&logoColor=white)
-![WordPress](https://img.shields.io/badge/WordPress-21759B?style=flat&logo=wordpress&logoColor=white)
+### **Programming Languages**
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 
-### **Tools**
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
-![XAMPP](https://img.shields.io/badge/XAMPP-FB7A24?style=flat&logo=xampp&logoColor=white)
+### **Web Development**
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_API-FF6C37?style=flat-square&logo=postman&logoColor=white)
+
+### **WordPress Expertise**
+<div align="center">
+  
+![Elementor Pro](https://img.shields.io/badge/Elementor_Pro-92003B?style=flat-square&logo=elementor&logoColor=white)
+![WooCommerce](https://img.shields.io/badge/WooCommerce-96588A?style=flat-square&logo=woocommerce&logoColor=white)
+![Theme Development](https://img.shields.io/badge/Theme_Development-21759B?style=flat-square)
+![Plugin Customization](https://img.shields.io/badge/Plugin_Customization-777BB4?style=flat-square)
+![Performance Optimization](https://img.shields.io/badge/Performance_Optimization-FF6B35?style=flat-square)
+![Security Hardening](https://img.shields.io/badge/Security_Hardening-DC3545?style=flat-square)
+
+</div>
+
+### **Development Tools**
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![XAMPP](https://img.shields.io/badge/XAMPP-FB7A24?style=flat-square&logo=xampp&logoColor=white)
 
 ---
 
 ## 📂 Featured Projects
 
-### 🏗️ **Zaitoon Group**
-Construction company website with services, dynamic pages, and integrations
+### 🏗️ **Zaitoon Group** - Construction Company Website
+- **Description:** Professional construction company website with dynamic pages and service integrations
+- **Technologies:** WordPress, Elementor, Custom PHP, Contact Forms
+- **Features:** Service showcases, project galleries, contact integration
 
-### 🎨 **ARCOS LAB**
-Marketing agency website with subscriptions, chatbot, request tracking
+### 🎨 **ARCOS LAB** - Marketing Agency Platform
+- **Description:** Comprehensive marketing agency website with subscription system
+- **Technologies:** WordPress, Custom plugins, Chatbot integration
+- **Features:** Subscription management, request tracking, live chatbot
 
-### 🛍️ **WooCommerce Store**
-Custom checkout + full store setup
+### 🛍️ **E-Commerce Store** - WooCommerce Solution
+- **Description:** Fully customized online store with advanced functionality
+- **Technologies:** WooCommerce, Custom PHP, Payment Gateways
+- **Features:** Custom checkout, product management, order processing
 
-### 🤖 **Teacher Chatbot**
-Local version with custom functionality
+### 🤖 **Teacher Chatbot** - Educational Assistant
+- **Description:** Local AI-powered chatbot for educational purposes
+- **Technologies:** Python, Natural Language Processing
+- **Features:** Local deployment, custom training, user interaction
 
 ---
 
-## 💼 Currently Working On
-- Building my web development portfolio
-- Improving backend skills for future full-stack roles
-- Enhancing real-world WordPress projects
+## 💼 Current Focus
+- 🔭 **Building** my professional development portfolio
+- 🌱 **Learning** advanced backend development patterns
+- 👯 **Collaborating** on real-world WordPress projects
+- 💡 **Exploring** new web technologies and frameworks
 
 ---
 
+## 📊 GitHub Stats
 
-## 📫 Connect With Me
+<div align="center">
+
+![Yara's GitHub Stats](https://github-readme-stats.vercel.app/api?username=yara351&show_icons=true&theme=radical&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yara351&layout=compact&theme=radical&hide_border=true)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=yara351&theme=radical&hide_border=true)
+
+</div>
+
+---
+
+## 📫 Let's Connect
+
+<div align="center">
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ayara351@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yara-ahmed-5540291b1/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yara351)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF7139?style=for-the-badge&logo=firefox&logoColor=white)](https://your-portfolio-link.com)
+
+</div>
 
 ---
 
 <p align="center">
-  <b>Thank you for visiting my profile! ⭐</b>
+  <i>Thank you for visiting my profile! Feel free to explore my repositories and get in touch! ⭐</i>
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" />
 </p>
