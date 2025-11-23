@@ -1,8 +1,6 @@
 <h1 align="center">Hi there 👋 I'm Yara Ahmed</h1>
 
-<p align="center">
-  <img src="YOUR_IMAGE_LINK" width="180" style="border-radius: 50%;">
-</p>
+
 
 ---
 
@@ -66,8 +64,8 @@ I'm currently improving my backend skills with **PHP** and **ASP.NET** to become
 ---
 
 ## 📫 Contact Me
-- **Email:** your-email@example.com  
-- **LinkedIn:** your-linkedin-link  
+- **Email:** ayara351@gmail.com 
+- **LinkedIn:** https://www.linkedin.com/in/yara-ahmed-5540291b1/
 - **GitHub:** https://github.com/yara351  
 
 ---
