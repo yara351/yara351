@@ -42,7 +42,7 @@ I'm a passionate **WordPress Developer** and **Computer Engineer** with expertis
 ![REST API](https://img.shields.io/badge/REST_API-FF6C37?style=flat-square&logo=postman&logoColor=white)
 
 ### **WordPress Expertise**
-<div align="center">
+<div>
   
 ![Elementor Pro](https://img.shields.io/badge/Elementor_Pro-92003B?style=flat-square&logo=elementor&logoColor=white)
 ![WooCommerce](https://img.shields.io/badge/WooCommerce-96588A?style=flat-square&logo=woocommerce&logoColor=white)
