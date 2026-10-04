@@ -1,9 +1,7 @@
 <h1 align="center">Hi there 👋 I'm Yara Ahmed</h1>
 <h3 align="center">🚀 WordPress Developer & Computer Engineer</h3>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=yara351&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile views" />
-</p>
+
 
 ---
 
